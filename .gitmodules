@@ -1,0 +1,3 @@
+[submodule "gpipe_gpu_number_suggestion"]
+	path = gpipe_gpu_number_suggestion
+	url = https://github.com/xsppp/gpipe_gpu_number_suggestion.git
